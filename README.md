@@ -22,4 +22,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
+https://lms2.ai.saveetha.in/pluginfile.php/101189/assignsubmission_file/submission_files/537771/PROMPT%20ENGINEERING-2.docx?forcedownload=1
+
 RESULT:
+
+The evaluation of summarizing a text using three different AI models by zero shot, few shot and chain of thought has been completed successfully
